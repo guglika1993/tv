@@ -2,6 +2,7 @@
 #EXTINF:-1 tvg-id="imedi" tvg-logo="https://www.imedi.ge/m/i/logo-fb.png", ImediTV
 https://tv.cdn.xsg.ge/imedihd/index.m3u8
 
+#EXTM3U
 #EXTINF:-1 tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/FSkYLPK.png", 1TV
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 
@@ -14,5 +15,32 @@ https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 tvg-id="MtavariArkhi.ge" tvg-logo="https://i.imgur.com/tLtGnJW.png",Mtavari Arkhi
 https://fl1002.bozztv.com/gin-mtavariarxi/index.m3u8
 
-#EXTINF:-1 tvg-id="euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/800px-Euronews._2016_alternative_logo.png", EuroNews
-https://live2.tvg.ge/eng/EURONEWSGEORGIA/playlist.m3u8
+#EXTINF:-1 tvg-id="maestro", Maestro
+https://live2.mar.tv/fbe033fada8adfdc23bbc821d19090e93c8891f185a39dbfbef067bc61bff1bc/5e/index.m3u8
+
+#EXTINF:-1 tvg-id="comedy", Comedy
+https://live4.mar.tv/fbe033fada8adfdc23bbc821d19090e93c8891f185a39dbfbef067bc61bff1bc/14rd/index.m3u8
+
+#EXTINF:-1 tvg-id="rustavi", Rustavi2
+https://live4.mar.tv/fbe033fada8adfdc23bbc821d19090e93c8891f185a39dbfbef067bc61bff1bc/4rd/index.m3u8
+
+#EXTINF:-1 tvg-id="tvpirveli", TV Pirveli
+https://live2.mar.tv/fbe033fada8adfdc23bbc821d19090e93c8891f185a39dbfbef067bc61bff1bc/8hd/index.m3u8
+
+#EXTINF:-1 tvg-id="postv", POSTV
+https://live6.mar.tv/fbe033fada8adfdc23bbc821d19090e93c8891f185a39dbfbef067bc61bff1bc/postvw/index.m3u8
+
+#EXTINF:-1 tvg-id="silkuniversal", Silk Universal
+https://live2.mar.tv/fbe033fada8adfdc23bbc821d19090e93c8891f185a39dbfbef067bc61bff1bc/silkuwow/index.m3u8
+
+#EXTINF:-1 tvg-id="altinfo", Alt-Info
+https://live6.mar.tv/fbe033fada8adfdc23bbc821d19090e93c8891f185a39dbfbef067bc61bff1bc/996alt/index.m3u8
+
+#EXTINF:-1 tvg-id="setanta", SETANTA 1
+https://ser1.musical.uz/setanta1/index.m3u8?token=16e5fbc2bbc37f7669d0b674b48e9602506aa4db-3652640c3d73c0434ae9a35e50dfa26c-1719688638-1719677838&remote=176.74.95.65
+
+#EXTINF:-1 tvg-id="setantaTEST", SETANTA 1 TEST
+https://edge01-alm.beetv.kz/bpk-token/2an@qqgsmkut0isjbgmega2aynezuaeuretcq4kj1qaa/btv/SWM/setantasports1hdkz/setantasports1hdkz_1080p_5000kbps.m3u8
+
+#EXTINF:-1 tvg-id="setantaTEST2", SETANTA 2 TEST
+https://bal.varcdn.top/lb/setanta1/index.m3u8
