@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="imedi" tvg-logo="https://www.imedi.ge/m/i/logo-fb.png", ImediTV
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/FSkYLPK.png", 1TV
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+
+#EXTINF:-1 tvg-id="2TV.ge" tvg-logo="https://i.imgur.com/FJBL6zI.png", 2TV
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Formula.ge" tvg-logo="https://i.imgur.com/fsqBn8G.png", Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+
+#EXTINF:-1 tvg-id="MtavariArkhi.ge" tvg-logo="https://i.imgur.com/tLtGnJW.png",Mtavari Arkhi
+https://fl1002.bozztv.com/gin-mtavariarxi/index.m3u8
+
+#EXTINF:-1 tvg-id="MtavariArkhi.ge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rustavi_2_logo.png", Rustavi2
+https://tbs01-edge35.itdc.ge/rustavi2hqnew/index.m3u8?token=OK1Ts3PdIwdcRAzyFQbcPM4uKwr8Y8yxrJ8moqXCHRy7H2t71rP8pc-814Cr9oBskvmBZH9cuz1xFaTP1UrF5kjfzNYAeKMV-nB1Eu97cVg-KRC8vRi6f8336MqmePTZNxA5pP-7ZlaiLSiF6OdYi6iq96laLbg236mYA0GHNrhJ6irqRn8lgQFLVWQ4WsY1q9ymFzFq0cvE6fQSvDUZXQ290LF5SVRw1C50YKIeGIv0WagoCm4-_zZZlba3Falfae_KFo67Cd01g2PdDm1SyIMVxDoupKHsf0d596fwSVbjuHQHX_jCskp68aZlQERV
+
+#EXTM3U
+#EXTINF:-1 tvg-id="postv" group-title="News", POSTV
+https://tbs01-edge34.itdc.ge/postv/tracks-v1a1/index.m3u8?token=8WDGjLMQp61fJ2LvyRcnfaSP2DAQ4tMWeDK3DZqWm5_Dx0qVfLJLQF5lNat1IAC0LWn_D4qjmq4gQSQD4wVkWv62OSsdgaed8Xg3-tfr1wvoEGIXUMD2k6Oq_skq3uOpEcWUECOwtGFh3V_fU2nK_NCKDSAnNagr3AWMEtsjixu-lefEYEeEmoxuvpAnOIVVBuCw2WmNn-6lo48KDTC_FZ6sHpEw3jOzD_ntAdLhwp0RLoNwdW-mmj4Kv5qPP6vR
+
+
