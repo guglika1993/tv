@@ -36,11 +36,5 @@ https://live2.mar.tv/fbe033fada8adfdc23bbc821d19090e93c8891f185a39dbfbef067bc61b
 #EXTINF:-1 tvg-id="altinfo", Alt-Info
 https://live6.mar.tv/fbe033fada8adfdc23bbc821d19090e93c8891f185a39dbfbef067bc61bff1bc/996alt/index.m3u8
 
-#EXTINF:-1 tvg-id="setanta", SETANTA 1
-https://ser1.musical.uz/setanta1/index.m3u8?token=16e5fbc2bbc37f7669d0b674b48e9602506aa4db-3652640c3d73c0434ae9a35e50dfa26c-1719688638-1719677838&remote=176.74.95.65
-
-#EXTINF:-1 tvg-id="setantaTEST", SETANTA 1 TEST
-https://edge01-alm.beetv.kz/bpk-token/2an@qqgsmkut0isjbgmega2aynezuaeuretcq4kj1qaa/btv/SWM/setantasports1hdkz/setantasports1hdkz_1080p_5000kbps.m3u8
-
-#EXTINF:-1 tvg-id="setantaTEST2", SETANTA 2 TEST
-https://bal.varcdn.top/lb/setanta1/index.m3u8
+#EXTINF:-1 tvg-id="euronews", EuroNews
+https://live2.mar.tv/fc310b7b2250a70c480248ffe1ea37af20200a9096a46170a65305bddc7056cb/18sd/index.m3u8
